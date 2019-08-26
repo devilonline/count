@@ -1,0 +1,10 @@
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.csprojAssemblyReference.cache
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.Form1.resources
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\bin\Debug\count.exe.config
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\bin\Debug\count.exe
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\bin\Debug\count.pdb
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.exe
+C:\Users\cesar\OneDrive\Programacao\projetos\c#\count\count\obj\Debug\count.pdb
